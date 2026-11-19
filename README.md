@@ -10,7 +10,7 @@
 ---
 
 ## 🎥 Video Resumen Ejecutivo (Máx. 5 minutos)
-* **Enlace al video:** [Ver presentación ejecutiva del proyecto]((https://drive.google.com/file/d/18iTMr7rSmyt3RGl9zcbGeC2Pj7suGHVc/view?usp=sharing))
+* **Enlace al video:** [Ver presentación ejecutiva del proyecto((https://drive.google.com/file/d/18iTMr7rSmyt3RGl9zcbGeC2Pj7suGHVc/view?usp=sharing))
 
 ---
 
